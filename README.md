@@ -36,7 +36,8 @@ I’m a Full-stack Developer specializing in building exceptional digital experi
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
-### 🌐 **Socials:**  
+## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayas-shriyan)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/prayas-shriyan)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/prayas-shriyan)  
