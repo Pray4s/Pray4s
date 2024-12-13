@@ -38,10 +38,10 @@ I’m a Full-stack Developer specializing in building exceptional digital experi
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/prayas-shriyan">
+<a href="https://www.linkedin.com/in/prayasshriyan/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/prayas-shriyan">
+<a href="https://github.com/pray4s">
   <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://twitter.com/prayas-shriyan">
