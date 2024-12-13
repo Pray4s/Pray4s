@@ -23,7 +23,6 @@ I’m a Full-stack Developer specializing in building exceptional digital experi
 - [Express.JS Documentation](https://developer.mozilla.org/en-US/docs/Web/Express.js)
 - [Next Documentation](https://developer.mozilla.org/en-US/docs/Web/Next.js)
 
-🌐 Socials:
 ### 🌐 **Socials:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayas-shriyan)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/prayas-shriyan)  
