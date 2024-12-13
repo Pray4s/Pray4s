@@ -5,8 +5,6 @@ I’m a Full-stack Developer specializing in building exceptional digital experi
 
 🔭 I’m currently working on some personal projects.
 
-🌱 I’m currently learning the Next.js framework.
-
 👯 I’m looking to collaborate on full-stack web development projects.
 
 🤝 I’m looking for help with cloud deployment and web hosting.
