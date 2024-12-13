@@ -44,9 +44,6 @@ I’m a Full-stack Developer specializing in building exceptional digital experi
 <a href="https://github.com/pray4s">
   <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://twitter.com/prayas-shriyan">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
-</a>
 
 
 
